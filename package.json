@@ -1,5 +1,5 @@
 {
-  "name": "color-math",
+  "name": "@znemz/color-math",
   "version": "1.1.2",
   "description": "expressions to manipulate colors",
   "main": "lib/index.js",
